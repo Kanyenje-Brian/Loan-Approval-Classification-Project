@@ -1,6 +1,6 @@
 # 🏦 Loan Approval Classification
 
-This project builds a machine learning model to predict whether a loan applicant is likely to be approved or rejected based on demographic, financial, and behavioral attributes. It supports lenders in minimizing loan defaults and improving credit risk assessments.
+This project builds a machine learning model to predict whether a loan applicant is likely to be approved or rejected based on demographic, financial, and behavioral attributes. It supports lenders in minimizing loan defaults and improving credit risk assessments. 
 
 ---
 
