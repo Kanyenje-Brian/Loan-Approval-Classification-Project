@@ -68,17 +68,15 @@ Lending institutions face increasing pressure to make accurate, data-driven deci
 
 ---
 
-## 📈 Model Evaluation (Best Version)
+📈 Model Evaluation (Best Version)
+Metric	Logistic Regression	Decision Tree	XGBoost
+Accuracy	89%	92%	94%
+F1 (Approved)	76%	79%	90%
+AUC Score	0.95	0.96	0.97
+Evaluation metrics: Accuracy, F1-score, Precision, Recall, AUC
+Performance validated on unseen test data
 
-| Metric       | Logistic Regression | Decision Tree |
-|--------------|---------------------|---------------|
-| Accuracy     | 89%                 | 92%           |
-| F1 (Approved)| 76%                 | 79%           |
-| AUC Score    | 0.95                | 0.96          |
-
-- Evaluation metrics: Accuracy, F1-score, Precision, Recall, AUC
-- Performance validated on **unseen test data**
-
+Best Model - XGBoost
 ---
 
 ## 📁 Folder Structure
